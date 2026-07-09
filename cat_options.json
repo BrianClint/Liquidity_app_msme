@@ -1,0 +1,154 @@
+{
+  "Nationality": [
+    "Ghana",
+    "Kenya",
+    "Uganda"
+  ],
+  "attitude_business_stability_environment": [
+    "Don't know or N/A",
+    "No",
+    "Not stated",
+    "Yes"
+  ],
+  "attitude_closure_concerned": [
+    "Don't know or N/A",
+    "No",
+    "Not stated",
+    "Yes"
+  ],
+  "compliance_income_tax": [
+    "Don't know",
+    "No",
+    "Not stated",
+    "Refused",
+    "Yes"
+  ],
+  "underinsurance_perception": [
+    "Don't know",
+    "No",
+    "Not stated",
+    "Yes"
+  ],
+  "insurance_unaffordability_perception": [
+    "Don't know",
+    "No",
+    "Not stated",
+    "Yes"
+  ],
+  "automotive_insurance": [
+    "Don't know",
+    "Have now",
+    "Never had",
+    "Not stated",
+    "Used to have but don't have now"
+  ],
+  "mobile_wallet_access": [
+    "Don't know",
+    "Have now",
+    "Never had",
+    "Not stated",
+    "Used to have but don't have now"
+  ],
+  "current_problem_cash_flow": [
+    "No",
+    "Not stated",
+    "Yes"
+  ],
+  "Gender": [
+    "Female",
+    "Male"
+  ],
+  "extends_customer_credit": [
+    "No",
+    "Not stated",
+    "Yes, always",
+    "Yes, sometimes"
+  ],
+  "success_contentment": [
+    "Don't know",
+    "Don't know or N/A",
+    "No",
+    "Not stated",
+    "Yes"
+  ],
+  "credit_card_ownership": [
+    "Don't know",
+    "Have now",
+    "Never had",
+    "Not stated",
+    "Used to have but don't have now"
+  ],
+  "financial_tracking": [
+    "No",
+    "Not stated",
+    "Yes",
+    "Yes, always",
+    "Yes, sometimes"
+  ],
+  "business_insurability_doubt": [
+    "Don't know",
+    "No",
+    "Not stated",
+    "Yes"
+  ],
+  "insurance_necessity_attitude": [
+    "Do not know / N\u200e/A",
+    "Don't know",
+    "No",
+    "Not stated",
+    "Yes"
+  ],
+  "has_insurance": [
+    "No",
+    "Not stated",
+    "Yes"
+  ],
+  "referral_marketing": [
+    "No",
+    "Not stated",
+    "Yes"
+  ],
+  "active_loan_holder": [
+    "Don't know",
+    "Don't know (Do not show)",
+    "Have now",
+    "Never had",
+    "Not stated",
+    "Used to have but don't have now"
+  ],
+  "has_internet_banking": [
+    "Don't know",
+    "Don't know (Do not show)",
+    "Have now",
+    "Never had",
+    "Not stated",
+    "Used to have but don't have now"
+  ],
+  "has_debit_card": [
+    "Don't know",
+    "Have now",
+    "Never had",
+    "Not stated",
+    "Used to have but don't have now"
+  ],
+  "inventory_shrinkage_risk": [
+    "No",
+    "Not stated",
+    "Yes"
+  ],
+  "medical_insurance": [
+    "Don't know",
+    "Don't know (Do not show)",
+    "Have now",
+    "Never had",
+    "Not stated",
+    "Used to have but don't have now"
+  ],
+  "funeral_insurance": [
+    "Don't know",
+    "Have now",
+    "Never had",
+    "Not stated",
+    "Used to have but don't have now"
+  ]
+}

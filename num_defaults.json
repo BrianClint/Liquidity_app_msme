@@ -1,0 +1,19 @@
+{
+  "customer_age": 39.0,
+  "gross_income": 2250.0,
+  "operating_expense": 5000.0,
+  "business_sales": 10000.0,
+  "years_in_operation": 5.0,
+  "net_profit": -570.0,
+  "profit_margin": -1.4,
+  "expense_to_income_ratio": 2.4,
+  "sales_to_expense_ratio": 2.0,
+  "log_gross_income": 7.719129840906732,
+  "log_business_sales": 9.210440366976515,
+  "mobile_wallet_access_now": 0.0,
+  "credit_card_ownership_now": 0.0,
+  "active_loan_holder_now": 0.0,
+  "has_internet_banking_now": 0.0,
+  "has_debit_card_now": 0.0,
+  "financial_inclusion_score": 1.0
+}
